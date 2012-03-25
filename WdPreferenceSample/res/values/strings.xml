@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeekDayPreference</string>
+    <string name="menu_preference">Settings</string>
+    <string name="pref_key_wdCheckBox">key_wdCheckBox</string>
+    <string name="pref_key_wdCheckBox2">key_wdCheckBox2</string>
+
+    <string name="pref_wdCheckBox_title">曜日</string>
+    <string name="pref_wdCheckBox_summary">曜日を指定します</string>
+    <string name="pref_wdCheckBox_summary_nosetting">設定なし</string>
+
+	<string name="pref_wdCheckBox_mon">月</string>
+	<string name="pref_wdCheckBox_tue">火</string>
+	<string name="pref_wdCheckBox_wed">水</string>
+	<string name="pref_wdCheckBox_thr">木</string>
+	<string name="pref_wdCheckBox_fri">金</string>
+	<string name="pref_wdCheckBox_sat">土</string>
+	<string name="pref_wdCheckBox_sun">日</string>
+</resources>
